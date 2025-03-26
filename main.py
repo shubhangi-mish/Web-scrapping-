@@ -4,7 +4,7 @@ import random
 from config import DELAY, RETRIES
 from scrapers.amazon_scraper import scrape_amazon
 from scrapers.bestbuy_scraper import scrape_bestbuy
-
+from scrapers.lg_scraper import scrape_lg_canada  # Added LG Canada scraper
 from utils.error_logger import log_error
 
 # ... (keep your existing products list) ...
@@ -17,8 +17,6 @@ def main():
     success_count = 0
     failure_count = 0
 
-    
-    
     for product in products:
         name = product["name"]
         brand = name.split()[0]
@@ -35,7 +33,7 @@ def main():
         scrapers = [
             ("Best Buy", scrape_bestbuy),
             ("Amazon", scrape_amazon),
-            
+            ("LG Canada", scrape_lg_canada)  # Added LG Canada to scrapers list
         ]
         
         for retailer_name, scraper_func in scrapers:

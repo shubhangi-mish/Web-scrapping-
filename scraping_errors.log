@@ -76,3 +76,217 @@ Backtrace:
 	RtlInitializeExceptionChain [0x77DBC28B+107]
 	RtlClearBits [0x77DBC20F+191]
 
+2025-03-26 20:41:36,344 - ERROR - BestBuyAPI | LG 50" UHD 4K Smart LED TV - 50UT7570PUB | Request failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-03-26 20:41:53,748 - ERROR - BestBuyAPI | LG 50" UHD 4K Smart LED TV - 50UT7570PUB | Request failed: HTTPSConnectionPool(host='www.bestbuy.ca', port=443): Read timed out. (read timeout=15)
+2025-03-26 20:42:10,104 - ERROR - BestBuyAPI | LG 50" UHD 4K Smart LED TV - 50UT7570PUB | Request failed: HTTPSConnectionPool(host='www.bestbuy.ca', port=443): Read timed out. (read timeout=15)
+2025-03-26 20:42:15,699 - ERROR - BestBuyScraper | LG 50" UHD 4K Smart LED TV - 50UT7570PUB | Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 134.0.6998.167 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x005DA813+48355]
+	(No symbol) [0x0056C4B1]
+	(No symbol) [0x00475358]
+	(No symbol) [0x004961AC]
+	(No symbol) [0x00491EF3]
+	(No symbol) [0x00490579]
+	(No symbol) [0x004C0C55]
+	(No symbol) [0x004C093C]
+	(No symbol) [0x004BA536]
+	(No symbol) [0x004982DC]
+	(No symbol) [0x004993DD]
+	GetHandleVerifier [0x0083AABD+2539405]
+	GetHandleVerifier [0x0087A78F+2800735]
+	GetHandleVerifier [0x0087456C+2775612]
+	GetHandleVerifier [0x006651E0+616112]
+	(No symbol) [0x00575F8C]
+	(No symbol) [0x00572328]
+	(No symbol) [0x0057240B]
+	(No symbol) [0x00564FF7]
+	BaseThreadInitThunk [0x76967BA9+25]
+	RtlInitializeExceptionChain [0x77DBC28B+107]
+	RtlClearBits [0x77DBC20F+191]
+
+2025-03-26 20:42:33,324 - ERROR - LG Canada | LG 50" UHD 4K Smart LED TV - 50UT7570PUB | No search results found
+2025-03-26 20:42:37,131 - ERROR - LG Canada | LG 50" UHD 4K Smart LED TV - 50UT7570PUB | No search results found
+2025-03-26 20:42:41,537 - ERROR - LG Canada | LG 50" UHD 4K Smart LED TV - 50UT7570PUB | No search results found
+2025-03-26 20:47:02,479 - ERROR - BestBuyAPI | LG 50" UHD 4K Smart LED TV - 50UT7570PUB | Request failed: HTTPSConnectionPool(host='www.bestbuy.ca', port=443): Read timed out. (read timeout=15)
+2025-03-26 20:47:20,524 - ERROR - BestBuyAPI | LG 50" UHD 4K Smart LED TV - 50UT7570PUB | Request failed: HTTPSConnectionPool(host='www.bestbuy.ca', port=443): Read timed out. (read timeout=15)
+2025-03-26 20:47:37,498 - ERROR - BestBuyAPI | LG 50" UHD 4K Smart LED TV - 50UT7570PUB | Request failed: HTTPSConnectionPool(host='www.bestbuy.ca', port=443): Read timed out. (read timeout=15)
+2025-03-26 20:47:44,249 - ERROR - BestBuyScraper | LG 50" UHD 4K Smart LED TV - 50UT7570PUB | Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 134.0.6998.167 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00EDA813+48355]
+	(No symbol) [0x00E6C4B1]
+	(No symbol) [0x00D75358]
+	(No symbol) [0x00D961AC]
+	(No symbol) [0x00D91EF3]
+	(No symbol) [0x00D90579]
+	(No symbol) [0x00DC0C55]
+	(No symbol) [0x00DC093C]
+	(No symbol) [0x00DBA536]
+	(No symbol) [0x00D982DC]
+	(No symbol) [0x00D993DD]
+	GetHandleVerifier [0x0113AABD+2539405]
+	GetHandleVerifier [0x0117A78F+2800735]
+	GetHandleVerifier [0x0117456C+2775612]
+	GetHandleVerifier [0x00F651E0+616112]
+	(No symbol) [0x00E75F8C]
+	(No symbol) [0x00E72328]
+	(No symbol) [0x00E7240B]
+	(No symbol) [0x00E64FF7]
+	BaseThreadInitThunk [0x76967BA9+25]
+	RtlInitializeExceptionChain [0x77DBC28B+107]
+	RtlClearBits [0x77DBC20F+191]
+
+2025-03-26 20:48:02,159 - ERROR - LG Canada | LG 50" UHD 4K Smart LED TV - 50UT7570PUB | No search results found
+2025-03-26 20:48:06,479 - ERROR - LG Canada | LG 50" UHD 4K Smart LED TV - 50UT7570PUB | No search results found
+2025-03-26 20:48:10,369 - ERROR - LG Canada | LG 50" UHD 4K Smart LED TV - 50UT7570PUB | No search results found
+2025-03-26 20:49:45,681 - ERROR - BestBuyAPI | LG 50" UHD 4K Smart LED TV - 50UT7570PUB | Request failed: HTTPSConnectionPool(host='www.bestbuy.ca', port=443): Read timed out. (read timeout=15)
+2025-03-26 20:50:02,384 - ERROR - BestBuyAPI | LG 50" UHD 4K Smart LED TV - 50UT7570PUB | Request failed: HTTPSConnectionPool(host='www.bestbuy.ca', port=443): Read timed out. (read timeout=15)
+2025-03-26 20:50:05,610 - ERROR - BestBuyAPI | LG 50" UHD 4K Smart LED TV - 50UT7570PUB | Request failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-03-26 20:50:12,969 - ERROR - BestBuyScraper | LG 50" UHD 4K Smart LED TV - 50UT7570PUB | Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 134.0.6998.167 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0085A813+48355]
+	(No symbol) [0x007EC4B1]
+	(No symbol) [0x006F5358]
+	(No symbol) [0x007161AC]
+	(No symbol) [0x00711EF3]
+	(No symbol) [0x00710579]
+	(No symbol) [0x00740C55]
+	(No symbol) [0x0074093C]
+	(No symbol) [0x0073A536]
+	(No symbol) [0x007182DC]
+	(No symbol) [0x007193DD]
+	GetHandleVerifier [0x00ABAABD+2539405]
+	GetHandleVerifier [0x00AFA78F+2800735]
+	GetHandleVerifier [0x00AF456C+2775612]
+	GetHandleVerifier [0x008E51E0+616112]
+	(No symbol) [0x007F5F8C]
+	(No symbol) [0x007F2328]
+	(No symbol) [0x007F240B]
+	(No symbol) [0x007E4FF7]
+	BaseThreadInitThunk [0x76967BA9+25]
+	RtlInitializeExceptionChain [0x77DBC28B+107]
+	RtlClearBits [0x77DBC20F+191]
+
+2025-03-26 20:50:30,514 - ERROR - LG Canada | LG 50" UHD 4K Smart LED TV - 50UT7570PUB | No search results found
+2025-03-26 20:50:35,852 - ERROR - LG Canada | LG 50" UHD 4K Smart LED TV - 50UT7570PUB | No search results found
+2025-03-26 20:50:40,211 - ERROR - LG Canada | LG 50" UHD 4K Smart LED TV - 50UT7570PUB | No search results found
+2025-03-26 20:55:34,900 - ERROR - BestBuyAPI | LG 50" UHD 4K Smart LED TV - 50UT7570PUB | Request failed: HTTPSConnectionPool(host='www.bestbuy.ca', port=443): Read timed out. (read timeout=15)
+2025-03-26 20:55:52,361 - ERROR - BestBuyAPI | LG 50" UHD 4K Smart LED TV - 50UT7570PUB | Request failed: HTTPSConnectionPool(host='www.bestbuy.ca', port=443): Read timed out. (read timeout=15)
+2025-03-26 20:56:10,417 - ERROR - BestBuyAPI | LG 50" UHD 4K Smart LED TV - 50UT7570PUB | Request failed: HTTPSConnectionPool(host='www.bestbuy.ca', port=443): Read timed out. (read timeout=15)
+2025-03-26 20:56:17,728 - ERROR - BestBuyScraper | LG 50" UHD 4K Smart LED TV - 50UT7570PUB | Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 134.0.6998.167 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x004BA813+48355]
+	(No symbol) [0x0044C4B1]
+	(No symbol) [0x00355358]
+	(No symbol) [0x003761AC]
+	(No symbol) [0x00371EF3]
+	(No symbol) [0x00370579]
+	(No symbol) [0x003A0C55]
+	(No symbol) [0x003A093C]
+	(No symbol) [0x0039A536]
+	(No symbol) [0x003782DC]
+	(No symbol) [0x003793DD]
+	GetHandleVerifier [0x0071AABD+2539405]
+	GetHandleVerifier [0x0075A78F+2800735]
+	GetHandleVerifier [0x0075456C+2775612]
+	GetHandleVerifier [0x005451E0+616112]
+	(No symbol) [0x00455F8C]
+	(No symbol) [0x00452328]
+	(No symbol) [0x0045240B]
+	(No symbol) [0x00444FF7]
+	BaseThreadInitThunk [0x76967BA9+25]
+	RtlInitializeExceptionChain [0x77DBC28B+107]
+	RtlClearBits [0x77DBC20F+191]
+
+2025-03-26 20:56:36,699 - ERROR - Main-LG Canada | LG 50" UHD 4K Smart LED TV - 50UT7570PUB | Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 134.0.6998.167 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x004CA813+48355]
+	(No symbol) [0x0045C4B1]
+	(No symbol) [0x00365358]
+	(No symbol) [0x003861AC]
+	(No symbol) [0x00381EF3]
+	(No symbol) [0x00380579]
+	(No symbol) [0x003B0C55]
+	(No symbol) [0x003B093C]
+	(No symbol) [0x003AA536]
+	(No symbol) [0x003882DC]
+	(No symbol) [0x003893DD]
+	GetHandleVerifier [0x0072AABD+2539405]
+	GetHandleVerifier [0x0076A78F+2800735]
+	GetHandleVerifier [0x0076456C+2775612]
+	GetHandleVerifier [0x005551E0+616112]
+	(No symbol) [0x00465F8C]
+	(No symbol) [0x00462328]
+	(No symbol) [0x0046240B]
+	(No symbol) [0x00454FF7]
+	BaseThreadInitThunk [0x76967BA9+25]
+	RtlInitializeExceptionChain [0x77DBC28B+107]
+	RtlClearBits [0x77DBC20F+191]
+
+2025-03-26 21:14:20,910 - ERROR - BestBuyAPI | LG 50" UHD 4K Smart LED TV - 50UT7570PUB | Request failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-03-26 21:14:38,209 - ERROR - BestBuyAPI | LG 50" UHD 4K Smart LED TV - 50UT7570PUB | Request failed: HTTPSConnectionPool(host='www.bestbuy.ca', port=443): Read timed out. (read timeout=15)
+2025-03-26 21:14:39,502 - ERROR - BestBuyAPI | LG 50" UHD 4K Smart LED TV - 50UT7570PUB | Request failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-03-26 21:14:46,343 - ERROR - BestBuyScraper | LG 50" UHD 4K Smart LED TV - 50UT7570PUB | Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 134.0.6998.167 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00EEA813+48355]
+	(No symbol) [0x00E7C4B1]
+	(No symbol) [0x00D85358]
+	(No symbol) [0x00DA61AC]
+	(No symbol) [0x00DA1EF3]
+	(No symbol) [0x00DA0579]
+	(No symbol) [0x00DD0C55]
+	(No symbol) [0x00DD093C]
+	(No symbol) [0x00DCA536]
+	(No symbol) [0x00DA82DC]
+	(No symbol) [0x00DA93DD]
+	GetHandleVerifier [0x0114AABD+2539405]
+	GetHandleVerifier [0x0118A78F+2800735]
+	GetHandleVerifier [0x0118456C+2775612]
+	GetHandleVerifier [0x00F751E0+616112]
+	(No symbol) [0x00E85F8C]
+	(No symbol) [0x00E82328]
+	(No symbol) [0x00E8240B]
+	(No symbol) [0x00E74FF7]
+	BaseThreadInitThunk [0x76967BA9+25]
+	RtlInitializeExceptionChain [0x77DBC28B+107]
+	RtlClearBits [0x77DBC20F+191]
+
+2025-03-26 21:15:02,168 - ERROR - Amazon | LG 50" UHD 4K Smart LED TV - 50UT7570PUB | No valid products with prices found
+2025-03-26 21:15:12,763 - ERROR - Main-LG Canada | LG 50" UHD 4K Smart LED TV - 50UT7570PUB | Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 134.0.6998.167 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x009CA813+48355]
+	(No symbol) [0x0095C4B1]
+	(No symbol) [0x00865358]
+	(No symbol) [0x008861AC]
+	(No symbol) [0x00881EF3]
+	(No symbol) [0x00880579]
+	(No symbol) [0x008B0C55]
+	(No symbol) [0x008B093C]
+	(No symbol) [0x008AA536]
+	(No symbol) [0x008882DC]
+	(No symbol) [0x008893DD]
+	GetHandleVerifier [0x00C2AABD+2539405]
+	GetHandleVerifier [0x00C6A78F+2800735]
+	GetHandleVerifier [0x00C6456C+2775612]
+	GetHandleVerifier [0x00A551E0+616112]
+	(No symbol) [0x00965F8C]
+	(No symbol) [0x00962328]
+	(No symbol) [0x0096240B]
+	(No symbol) [0x00954FF7]
+	BaseThreadInitThunk [0x76967BA9+25]
+	RtlInitializeExceptionChain [0x77DBC28B+107]
+	RtlClearBits [0x77DBC20F+191]
+
