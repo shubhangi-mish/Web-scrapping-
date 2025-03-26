@@ -1,0 +1,78 @@
+2025-03-26 19:15:34,209 - ERROR - BestBuyAPI | Hisense 50" 4K Smart Google AI Upscaler LED TV - 50A68N | Request failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-03-26 19:15:52,432 - ERROR - BestBuyAPI | Hisense 50" 4K Smart Google AI Upscaler LED TV - 50A68N | Request failed: HTTPSConnectionPool(host='www.bestbuy.ca', port=443): Read timed out. (read timeout=15)
+2025-03-26 19:16:09,796 - ERROR - BestBuyAPI | Hisense 50" 4K Smart Google AI Upscaler LED TV - 50A68N | Request failed: HTTPSConnectionPool(host='www.bestbuy.ca', port=443): Read timed out. (read timeout=15)
+2025-03-26 19:16:33,781 - ERROR - BestBuyAPI | Hisense 50" 4K Smart Google AI Upscaler LED TV - 50A68N | Request failed: HTTPSConnectionPool(host='www.bestbuy.ca', port=443): Read timed out. (read timeout=15)
+2025-03-26 19:16:52,307 - ERROR - BestBuyAPI | Hisense 50" 4K Smart Google AI Upscaler LED TV - 50A68N | Request failed: HTTPSConnectionPool(host='www.bestbuy.ca', port=443): Read timed out. (read timeout=15)
+2025-03-26 19:17:10,977 - ERROR - BestBuyAPI | Hisense 50" 4K Smart Google AI Upscaler LED TV - 50A68N | Request failed: HTTPSConnectionPool(host='www.bestbuy.ca', port=443): Read timed out. (read timeout=15)
+2025-03-26 19:17:38,543 - ERROR - BestBuyAPI | Hisense 50" 4K Smart Google AI Upscaler LED TV - 50A68N | Request failed: HTTPSConnectionPool(host='www.bestbuy.ca', port=443): Read timed out. (read timeout=15)
+2025-03-26 19:17:55,899 - ERROR - BestBuyAPI | Hisense 50" 4K Smart Google AI Upscaler LED TV - 50A68N | Request failed: HTTPSConnectionPool(host='www.bestbuy.ca', port=443): Read timed out. (read timeout=15)
+2025-03-26 19:18:14,030 - ERROR - BestBuyAPI | Hisense 50" 4K Smart Google AI Upscaler LED TV - 50A68N | Request failed: HTTPSConnectionPool(host='www.bestbuy.ca', port=443): Read timed out. (read timeout=15)
+2025-03-26 19:45:21,774 - ERROR - BestBuyAPI | Hisense 50" 4K Smart Google AI Upscaler LED TV - 50A68N | Request failed: HTTPSConnectionPool(host='www.bestbuy.ca', port=443): Read timed out. (read timeout=15)
+2025-03-26 19:45:42,421 - ERROR - BestBuyAPI | Hisense 50" 4K Smart Google AI Upscaler LED TV - 50A68N | Request failed: HTTPSConnectionPool(host='www.bestbuy.ca', port=443): Read timed out. (read timeout=15)
+2025-03-26 19:45:59,287 - ERROR - BestBuyAPI | Hisense 50" 4K Smart Google AI Upscaler LED TV - 50A68N | Request failed: HTTPSConnectionPool(host='www.bestbuy.ca', port=443): Read timed out. (read timeout=15)
+2025-03-26 19:46:19,125 - ERROR - BestBuyAPI | Hisense 50" 4K Smart Google AI Upscaler LED TV - 50A68N | Request failed: HTTPSConnectionPool(host='www.bestbuy.ca', port=443): Read timed out. (read timeout=15)
+2025-03-26 19:46:37,160 - ERROR - BestBuyAPI | Hisense 50" 4K Smart Google AI Upscaler LED TV - 50A68N | Request failed: HTTPSConnectionPool(host='www.bestbuy.ca', port=443): Read timed out. (read timeout=15)
+2025-03-26 19:46:54,732 - ERROR - BestBuyAPI | Hisense 50" 4K Smart Google AI Upscaler LED TV - 50A68N | Request failed: HTTPSConnectionPool(host='www.bestbuy.ca', port=443): Read timed out. (read timeout=15)
+2025-03-26 19:47:18,456 - ERROR - BestBuyAPI | Hisense 50" 4K Smart Google AI Upscaler LED TV - 50A68N | Request failed: HTTPSConnectionPool(host='www.bestbuy.ca', port=443): Read timed out. (read timeout=15)
+2025-03-26 19:47:35,971 - ERROR - BestBuyAPI | Hisense 50" 4K Smart Google AI Upscaler LED TV - 50A68N | Request failed: HTTPSConnectionPool(host='www.bestbuy.ca', port=443): Read timed out. (read timeout=15)
+2025-03-26 19:47:37,663 - ERROR - BestBuyAPI | Hisense 50" 4K Smart Google AI Upscaler LED TV - 50A68N | Request failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-03-26 20:16:10,634 - ERROR - BestBuyAPI | Hisense 50" 4K Smart Google AI Upscaler LED TV - 50A68N | Request failed: HTTPSConnectionPool(host='www.bestbuy.ca', port=443): Read timed out. (read timeout=15)
+2025-03-26 20:16:27,786 - ERROR - BestBuyAPI | Hisense 50" 4K Smart Google AI Upscaler LED TV - 50A68N | Request failed: HTTPSConnectionPool(host='www.bestbuy.ca', port=443): Read timed out. (read timeout=15)
+2025-03-26 20:16:30,463 - ERROR - BestBuyAPI | Hisense 50" 4K Smart Google AI Upscaler LED TV - 50A68N | Request failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-03-26 20:16:35,846 - ERROR - BestBuyScraper | Hisense 50" 4K Smart Google AI Upscaler LED TV - 50A68N | Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 134.0.6998.167 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0031A813+48355]
+	(No symbol) [0x002AC4B1]
+	(No symbol) [0x001B5358]
+	(No symbol) [0x001D61AC]
+	(No symbol) [0x001D1EF3]
+	(No symbol) [0x001D0579]
+	(No symbol) [0x00200C55]
+	(No symbol) [0x0020093C]
+	(No symbol) [0x001FA536]
+	(No symbol) [0x001D82DC]
+	(No symbol) [0x001D93DD]
+	GetHandleVerifier [0x0057AABD+2539405]
+	GetHandleVerifier [0x005BA78F+2800735]
+	GetHandleVerifier [0x005B456C+2775612]
+	GetHandleVerifier [0x003A51E0+616112]
+	(No symbol) [0x002B5F8C]
+	(No symbol) [0x002B2328]
+	(No symbol) [0x002B240B]
+	(No symbol) [0x002A4FF7]
+	BaseThreadInitThunk [0x76967BA9+25]
+	RtlInitializeExceptionChain [0x77DBC28B+107]
+	RtlClearBits [0x77DBC20F+191]
+
+2025-03-26 20:19:57,475 - ERROR - BestBuyAPI | LG 50" UHD 4K Smart LED TV - 50UT7570PUB | Request failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-03-26 20:20:14,208 - ERROR - BestBuyAPI | LG 50" UHD 4K Smart LED TV - 50UT7570PUB | Request failed: HTTPSConnectionPool(host='www.bestbuy.ca', port=443): Read timed out. (read timeout=15)
+2025-03-26 20:20:16,363 - ERROR - BestBuyAPI | LG 50" UHD 4K Smart LED TV - 50UT7570PUB | Request failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-03-26 20:20:22,011 - ERROR - BestBuyScraper | LG 50" UHD 4K Smart LED TV - 50UT7570PUB | Message: session not created: This version of ChromeDriver only supports Chrome version 114
+Current browser version is 134.0.6998.167 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00C1A813+48355]
+	(No symbol) [0x00BAC4B1]
+	(No symbol) [0x00AB5358]
+	(No symbol) [0x00AD61AC]
+	(No symbol) [0x00AD1EF3]
+	(No symbol) [0x00AD0579]
+	(No symbol) [0x00B00C55]
+	(No symbol) [0x00B0093C]
+	(No symbol) [0x00AFA536]
+	(No symbol) [0x00AD82DC]
+	(No symbol) [0x00AD93DD]
+	GetHandleVerifier [0x00E7AABD+2539405]
+	GetHandleVerifier [0x00EBA78F+2800735]
+	GetHandleVerifier [0x00EB456C+2775612]
+	GetHandleVerifier [0x00CA51E0+616112]
+	(No symbol) [0x00BB5F8C]
+	(No symbol) [0x00BB2328]
+	(No symbol) [0x00BB240B]
+	(No symbol) [0x00BA4FF7]
+	BaseThreadInitThunk [0x76967BA9+25]
+	RtlInitializeExceptionChain [0x77DBC28B+107]
+	RtlClearBits [0x77DBC20F+191]
+
